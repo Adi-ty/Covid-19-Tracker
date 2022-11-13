@@ -13,3 +13,5 @@
 </ul><ul>
 <li>ChartJS</li>
 </ul>
+<h2>Screenshot</h2>
+<hr><img src="./images/covid tracker img.png" />
